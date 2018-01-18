@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/EscenasAlvaro/Marisa/prototipoDise\xF1o.unity"
+  isLoaded: 1
+  isActive: 1
